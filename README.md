@@ -27,7 +27,7 @@ Original number: 3.14159265
 Float to bits:   010000010010010000111111
 Bits to Float:   3.1415863037109375
 
-=============(EXP, SIG) = (5, 11)(Single)===========
+=============(EXP, SIG) = (5, 11)(Half)===========
 Original number: 3.14159265
 Float to bits:   01000010010010001
 Bits to Float:   3.1416015625
