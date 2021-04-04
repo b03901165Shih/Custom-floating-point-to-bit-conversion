@@ -1,7 +1,7 @@
 # Custom-floating-point-to-bit-conversion
 This directory contains python and C++ codes of floating-point to bit-string conversion and bit-string to floating-point conversion functions.
 
-Hardware designs calculating with floating-point representations may contain floating-point DSPs that has adjustable wordlength (exponent and fractional bits). Functions provided here can be useful tools for building testbenches or input patterns to FPGA for these hardware designs.
+Hardware designs calculating with floating-point representations may contain floating-point DSPs that has adjustable wordlength (exponent and fractional bits). Functions provided here can be useful tools for building testbenches or input patterns to these designs.
 
 ## Usage (Python)
 
