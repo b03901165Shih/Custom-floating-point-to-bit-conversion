@@ -20,7 +20,7 @@ if __name__=="__main__":
     
     exp = 5
     sig = 11
-    print("\n=============(EXP, SIG) = (%d, %d)(Single)==========="%(exp, sig))
+    print("\n=============(EXP, SIG) = (%d, %d)(Half)==========="%(exp, sig))
     print("Original number: %.8f"%test_num)
     print("Float to bits:  ",float_to_bits(test_num, exp, sig))
     print("Bits to Float:  ",bits_to_num(float_to_bits(test_num, exp, sig), exp, sig))
